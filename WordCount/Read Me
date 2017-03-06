@@ -1,0 +1,3 @@
+Take any of the Text input file and upload it to hadoop.
+Import the java project as jar and import the jar to hadoop
+use command : hadoop jar <jar file name> <source of your input file> <output directory>
